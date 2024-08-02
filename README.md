@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN, Full Stack Development**
 
-- 📫 How to reach me **alexbenjamin4403@gail.com**
+- 📫 How to reach me **alexbenjamin4403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
