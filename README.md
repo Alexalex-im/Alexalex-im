@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.alexbenjamin.com](www.alexbenjamin.com)
 
-- 📫 How to reach me **alexbenjamin4403gmail.com**
+- 📫 How to reach me **alexbenjamin4403@gmail.com**
 
 - 📄 Know about my experiences [www.googledrive.com](www.googledrive.com)
 
