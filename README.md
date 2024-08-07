@@ -1,3 +1,5 @@
+![images](https://github.com/user-attachments/assets/dd5a7318-2157-411f-bf13-ec3dbf817ffc)
+
 <h1 align="center">Hi 👋, I'm Alex Benjamin</h1>
 <h3 align="center">A passionate software developer</h3>
 
