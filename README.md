@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [alexbenjamin.netlify.app](http://alex-4403.netlify.app)
+- 👨‍💻 All of my projects are available at [alex-4403.netlify.app](http://alex-4403.netlify.app)
 
 - 💬 Ask me about **MERN, Full Stack Development**
 
