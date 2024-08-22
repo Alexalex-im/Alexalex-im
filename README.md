@@ -1,4 +1,4 @@
-![images](https://github.com/user-attachments/assets/1a64ceb8-cf09-4577-a438-3f87d4b634fa)
+
 
 <h1 align="center">Hi 👋, I'm AlexBenjamin</h1>
 <h3 align="center">A passionate software developer</h3>
