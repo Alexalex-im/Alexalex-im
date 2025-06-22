@@ -15,9 +15,9 @@
 ###
 
 <p align="left">• 🌱 I’m currently learning Data Structure & Algorithms<br><br>
-  • 👨‍💻 All of my projects are available at [alex-4403.netlify.app](https://alex-4403.netlify.app)<br><br>
+  • 👨‍💻 All of my projects are available at https://alex-4403.netlify.app<br><br>
   • 💬 Ask me about MERN, Full Stack Development<br><br>
-  •  📫 How to reach me **alexbenjamin4403@gmail.com**</p>
+  •  📫 How to reach me alexbenjamin4403@gmail.com</p>
 
 ###
 
