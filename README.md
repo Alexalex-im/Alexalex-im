@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" width="400" height="200" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"  />
+<img align="right" width="350" height="200" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"  />
 
 ###
 
